@@ -1,9 +1,9 @@
 # EEE4022F-Final-year-project
 
-#MATLAB Image Processing and Analysis Scripts
+# MATLAB Image Processing and Analysis Scripts
 This repository contains a set of MATLAB scripts for various image processing and analysis tasks, including video frame extraction, image extraction from ROS bags, stereo image rectification, length and width per pixel calculation, size estimation, and edge detection. Below is a description of each script and its functionality.
 
-#File Descriptions
+# File Descriptions
 VideoFrameExtraction.m
 This script extracts frames from a specified video file and saves them as JPEG images in a designated output folder.
 
